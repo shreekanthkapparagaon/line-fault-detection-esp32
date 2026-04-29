@@ -47,7 +47,7 @@ It continuously monitors electrical parameters and environmental conditions to d
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/<your-username>/line-fault-detection-esp32.git
+git clone https://github.com/shreekanthkapparagaon/line-fault-detection-esp32.git
 cd line-fault-detection-esp32
 ```
 
